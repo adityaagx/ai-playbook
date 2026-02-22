@@ -10,7 +10,7 @@ Prompting is the skill of communicating with an AI system to get the exact outpu
 It is not just “asking a question.”  
 It is designing instructions.
 
-Think of prompting as:
+Think of prompting as -
 - Briefing an employee
 - Directing a film
 - Writing a contract
